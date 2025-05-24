@@ -13,6 +13,7 @@ This analysis report specifically analyzing the data from 2023 to 2024 in half-y
 
 It is important to note that not every report data from Netflix has all this attribute. For example, in the first semester of 2023 data, there's only information about the title names, release date, global availability of the titles, and the HV of the titles. This issue limits the scope of the analysis. After considering the severity of the missing data/attributes (several attribute entirely missing from the report data), the significance of the missing data and to generalize each report data, it is decided that 3 attributes will be used, name; type; and hours viewed. The metric that will be used to measure the engagement of the audience is hours viewed (HV) which is the number of a hours a title is watched by the audience. 
 
+
 ## 2. General Summary
 The overall half-year trend of Netflix engagement using Hours Viewed (HV) metric is fluctuating through the first half of 2023 to the second half of 2024. Although it can be said it's in a positive trajectory but there is several caveats that needs to be discussed. Firstly, there is a 3.7% dip in HV in the second half of 2023, analysis suggest that this is due to the reduced number of titles especially in Film titles (while number of TV Shows is growing). Throughout 2024 HV is growing postively, 4,4% in the first half but only 0.1% in the second half. 
 
@@ -22,7 +23,8 @@ The two drivers based on type of titles is Film and TV Show. Film titles growth 
 ### a. Trend & Growth Rate
 Throughout 2023 - 2024, the number of Hours Viewed (HV) grows positively but with a decline of -3.6% in second semester of 2023. but Netflix able to recover with 4.4% and 0.12% of positive growth in the first and second semester of 2024. 
 
-[Graph 1]
+![hv-total](https://github.com/user-attachments/assets/543ce83f-8fca-461b-8597-c2e49ab80804)
+![hv-type](https://github.com/user-attachments/assets/1ccaef06-3842-494e-ba98-f517a8cc253e)
 
 The above graph shows the overall number of HV of Netflix from 2023 - 2024. In the first semester of 2023 we see that there's about 93.3B hours of spent by the users watching netflix titles then in the next period it dropped to 90B hours but able to recover in the first semester of 2024 to 94B and increased to 94.1B in the second semester.
 
