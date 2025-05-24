@@ -23,9 +23,8 @@ The two drivers based on type of titles is Film and TV Show. Film titles growth 
 ### a. Trend & Growth Rate
 Throughout 2023 - 2024, the number of Hours Viewed (HV) grows positively but with a decline of -3.6% in second semester of 2023. but Netflix able to recover with 4.4% and 0.12% of positive growth in the first and second semester of 2024. 
 
-![hv-total](https://github.com/user-attachments/assets/c106f761-c262-4fc2-9b70-2fa43fb8bb10)
-![hv-type](https://github.com/user-attachments/assets/6e2bd8ed-2737-4221-8c8c-22e70ad46f44)
-
+![hv-total](https://github.com/user-attachments/assets/fe5f696e-dad8-4e84-a395-3a32027e41d8)
+![hv-type](https://github.com/user-attachments/assets/d6554dc0-aa5a-44c0-adb4-0b9cb85655ad)
 
 The above graph shows the overall number of HV of Netflix from 2023 - 2024. In the first semester of 2023 we see that there's about 93.3B hours of spent by the users watching netflix titles then in the next period it dropped to 90B hours but able to recover in the first semester of 2024 to 94B and increased to 94.1B in the second semester.
 
