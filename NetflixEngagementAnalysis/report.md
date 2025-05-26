@@ -15,9 +15,10 @@ It is important to note that not every report data from Netflix has all this att
 
 
 ## 2. General Summary
-The overall half-year trend of Netflix engagement using Hours Viewed (HV) metric is fluctuating through the first half of 2023 to the second half of 2024. Although it can be said it's in a positive trajectory but there is several caveats that needs to be discussed. Firstly, there is a 3.7% dip in HV in the second half of 2023, analysis suggest that this is due to the reduced number of titles especially in Film titles (while number of TV Shows is growing). Throughout 2024 HV is growing postively, 4,4% in the first half but only 0.1% in the second half. 
-
-The two drivers based on type of titles is Film and TV Show. Film titles growth in 2024 is 2.7% and 0.6% while  TV Shows growth in 2024 is 5% and 0.0%.
+The overall half-year trend of Netflix engagement using Hours Viewed (HV) metric is fluctuating through the 2023-I to 2024-II. Although it can be said it's in a positive trajectory but there is several caveats that needs to be discussed. 
+Firstly, there is a 3.7% dip in HV in the second half of 2023, analysis suggest that this shouldn't be a concern because this is likely due to reduced number of Film titles in that period. 
+Secondly, throughout 2024 HV is growing postively, 4,4% in the 2024-I but only 0.1% in 2024-II. This is might indicate that there's a declining trend in growth of popularity in the titles.
+Thirdly, this growth decline in 2024-II is mostly contributed by TV Show titles with growth decline and stagnation in both HV metric and Views metric. In 2024-II, TV Show titles grows -0.07% in HV and 0.00% in Views. This is a strong indication that TV Show titles is losing popularity. Meanwhile, Film titles HV grows positively by 0.6% in 2024-II although it reached 2.7% HV growth in 2024-I. The same goes for Views metric with positive 0.6% growth in 2024-II and 1.5% in 2024-I.
 
 ## 3. Insights
 ### a. Trend & Growth Rate
@@ -27,9 +28,6 @@ The two drivers based on type of titles is Film and TV Show. Film titles growth 
 
 The above graph shows the overall number of HV of Netflix from 2023 - 2024. In the first semester of 2023 we see that there's about 93.3B hours of spent by the users watching netflix titles then in the next period it dropped to 90B hours but able to recover in the first semester of 2024 to 94B and increased to 94.1B in the second semester.
 
-![hv-type](https://github.com/user-attachments/assets/d6554dc0-aa5a-44c0-adb4-0b9cb85655ad) 
-> **Graph 3.2 Hours Viewed trend by show type**
-
 | Show Type | **2023-II** | **2024-I** | **2024-II** |
 |--|--|--|--|
 | **Film** | -25,4%  | -2.7%  | 0.6% |
@@ -37,9 +35,18 @@ The above graph shows the overall number of HV of Netflix from 2023 - 2024. In t
 | **_Grand Total_** | -3.7%  | 4.4%  | 0.1% |
 > **Table 3.1 Hours Viewed growth**
 
-Throughout 2023 - 2024, the growth of Hours Viewed (HV) fluctuate. In the second semester of 2023 there's a decline of -3.6%  but Netflix able to recover with 4.4% and 0.12% of positive growth in the first and second semester of 2024. Notice that in the second semester of 2024 there's quite a significant decline in growth (from 4.4% to 0.12%). As shown in Graph 3.1, further analysis shows that there's a decline of growth in HV by -0.1% in TV Shows while Film titles has positive growth of 0.63%. Although we cannot compare the value of HV from Film and TV Shows, but at least this can indicate that there's a declining popularity of TV Show titles. Furthermore, if we compare the growth in 2024-II from previous period (5% in 2024-I and 8.5% in 2023-II), we can see that there's noticeable decline which further strengthen our assumption that TV Shows titles is declining in popularity.
+Throughout 2023 - 2024, the growth of Hours Viewed (HV) fluctuate. In the second semester of 2023 there's a decline of -3.6%  but Netflix able to recover with 4.4% and 0.12% of positive growth in the first and second semester of 2024. Notice that in the second semester of 2024 there's quite a significant decline in growth (from 4.4% to 0.12%). As shown in Graph 3.1, further analysis shows that there's a decline of growth in HV by -0.1% in TV Shows while Film titles has positive growth of 0.63%. Although we cannot compare the value of HV from Film and TV Shows, but at least this can indicate that there's a declining popularity of TV Show titles. Furthermore, if we compare the growth in 2024-II from previous period (5% in 2024-I and 8.5% in 2023-II), we can see that there's noticeable decline which further strengthen our assumption that TV Shows titles is declining in popularity. 
 
-Due to it's nature of having longer total duration than Film/Movies, it's not surprising that TV series has higher HV than Film. TV Show titles is averaging around 65B HV while Film titles is averaging around 28B. If we use another metric that doesn't affected by the title duration, like Views, TV Show titles is averaging around 14B and Film titles is averaging around 10B (excluding 2023-I).
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/f7712d64-b39b-4d78-9547-a067a98eb25e" />
+
+> **Table 3.2 Hours Viewed growth**
+
+Another evidence we can use is if we use another metric such as Views to further prove that there's popularity decline in TV Show titles. In Graph 3.2, we can see that in the second semester of 2024 the number of TV Show Views in stagnating from 9.72B in the first semester to 9.72 again in the second semester while Film title increased by 90M Views in the second semester of 2024. This further indicate that there's a **decline or at least a stagnation of popularity in TV Show titles**. This matter needs to be addressed to prevent customer engagement decline.
+
+![hv-type](https://github.com/user-attachments/assets/d6554dc0-aa5a-44c0-adb4-0b9cb85655ad) 
+> **Graph 3.3 Hours Viewed trend by show type**
+
+Due to it's nature of having longer total duration than Film/Movies, it's not surprising that TV series has higher HV than Film. TV Show titles is averaging around 65B HV while Film titles is averaging around 28B. If we use another metric that doesn't affected by the title duration, like Views, TV Show titles is averaging around 14B Views and Film titles is averaging around 10B Views (excluding 2023-I).
 
 
 
@@ -51,7 +58,7 @@ Due to it's nature of having longer total duration than Film/Movies, it's not su
 | **2024-II** | -7%  | 1% |
 > **Table 3.2 Title count and HV growth**
 
-What is the cause of the decline in Film titles HV the second semester of 2023? is it really because of the declining popularity of the Film titles? To answer this, we can use one simple variable which is the number of titles. One possible reason for this sudden decline is that Netflix just happen to be reducing the number of Film titles which could directly decrease the number of HV on those titles. From the growth table, we can see that when the Films HV growth dropped by about 25% in 2023-II, the number of Film titles also dropped by about 21% which shows that it is likely that this drop in HV is due to **Netflix reducing the number of it's Film titles**. Assuming all other variables is constant.
+What is the cause of the decline in Film titles HV the second semester of 2023? is it really because of the declining popularity of the Film titles? To answer this, we can use one simple variable, the number of titles. One possible reason for this sudden decline is that Netflix just happen to be reducing the number of Film titles which could directly decrease the number of HV on those titles. From the growth table, we can see that when the Films HV growth dropped by about -25% in 2023-II, the number of Film titles also dropped by about -21% which shows that it is likely that this drop in HV is due to **Netflix reducing the number of it's Film titles**. Assuming all other variables is constant.
 
 Another observation we can analyze is that through 2024, the number of Film titles keeps dropping. Meanwhile, interestingly the number of HV is increasing. What can we derive from this observation? One possibilities is that the popularity of Netflix films in increasing. If the number of titles is decreasing but the number of HV is increasing, this means that with less Films the audience is watching more Films. If the HV remains constant through the period but the number of titles is declining, it means that there is an increase of interest in the audience on watching the titles, let alone an increasing HV. Assuming all other variables is constant, this means that Netflix has manage to cut back their number of Film titles but still manage to increase their HV. Or in simple words, **Netflix manage to optimize their Film titles**.
 
@@ -65,7 +72,8 @@ The audience engagement trend on Netflix titles is fluctuating over the course o
 
 ## 4. Recommendation
 
- - Increase popularity of both TV Show and Film titles due to the recent slowed/decline in growth of HV.
+ - Recent data shows there's a declining trend in the titles popularity, strategic measure need to be taken to prevent further loss.
+ - Increase popularity of TV Show titles due to it being the main driver of the recent slowed/decline in titles popularity.
  - Optimizing the Film titles has proven to be successful, the same can be done in TV Show titles if necessary.
 
 
