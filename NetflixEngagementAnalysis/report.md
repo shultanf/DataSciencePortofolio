@@ -14,7 +14,7 @@ This analysis report specifically analyzing the data from 2023 to 2024 in half-y
 It is important to note that not every report data from Netflix has all this attribute. For example, in the first semester of 2023 data, there's only information about the title names, release date, global availability of the titles, and the HV of the titles. This issue limits the scope of the analysis. After considering the severity of the missing data/attributes (several attribute entirely missing from the report data), the significance of the missing data and to generalize each report data, it is decided that 3 attributes will be used, name; type; and hours viewed. The metric that will be used to measure the engagement of the audience is hours viewed (HV) which is the number of a hours a title is watched by the audience. 
 
 
-## 2. General Summary
+## 2. Executive Summary
 The overall half-year trend of Netflix engagement using Hours Viewed (HV) metric is fluctuating through the 2023-I to 2024-II. Although it can be said it's in a positive trajectory but there is several caveats that needs to be discussed. 
 Firstly, there is a 3.7% dip in HV in the second half of 2023, analysis suggest that this shouldn't be a concern because this is likely due to reduced number of Film titles in that period. 
 Secondly, throughout 2024 HV is growing postively, 4,4% in the 2024-I but only 0.1% in 2024-II. This is might indicate that there's a declining trend in growth of popularity in the titles.
@@ -65,10 +65,10 @@ Another observation we can analyze is that through 2024, the number of Film titl
 In conclusion, by examining the two points of observation mentioned above and assuming all other variables is constant, we can **reject** our assumption that the decline in 2023-II is due to the audience decreasing popularity in Film titles. Further observation also indicate that Netflix is able to optimize their Film titles by reducing it's number but still manages to increase it's popularity.
 
 ### c. Conclusion
-The audience engagement trend on Netflix titles is fluctuating over the course of 2023 - 2024 with a slowed growth. Furthermore, there's a decline in the second semester of 2023, further analysis suggest that this is not due to declining popularity of the titles but rather due to the decreased number of titles in one of the main driver which is the Film titles. Although decreased, the popularity of the Film titles still increases and able to recover in the next period. Other concern that also need to be addresed is the growth stagnation in the second semester of 2024 with only 0.1% of growth in HV while in the previous period there's a 4.4% of growth in HV. If this trend continue, Netflix could experience a negative growth that can threaten customer engagement. In conclusion, analysis result can be presented in these 3 points:
- - Overall engagement trend is positive with a slowed growth.
- - Growth decline in 2023-II is not to be concerned, because it's likely due to reduced number of Film titles and Netflix has proven to be able to recover from this decline.
- - The drop from 4.4% growth to 0.1% growth in 2024 need to be addressed because if this continue it could result in negative growth.
+In conclusion, analysis result can be presented in these 3 points:
+ - Overall engagement trend is positive with a slowed growth in recent period.
+ - The HV decline in 2023-II is not to be concerned, because it's likely due to reduced number of Film titles and Netflix has proven to be able to recover from this decline.
+ - There is an indication that there's a declining/slowed growth in customer engagement based on declining growth in both HV metric and Views metric in 2024-II and TV Show titles is the main driver of this decline.
 
 ## 4. Recommendation
 
