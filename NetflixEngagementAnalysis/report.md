@@ -1,4 +1,4 @@
-# Netflix Engagement Analysis: Do Films losing it's popularity?
+# Netflix Engagement Analysis: Are Netflix shows losing popularity?
 ## 1. Introduction
 According to 2024 annual report, at the end of 2024 period Netflix has over 300 million membership. This makes Netflix as one of the biggest streaming service company in the world. Due to membership as their business model, customer engagement become a critical point for the business. In this report, I am going to do a simple analysis of Netflix's engagement using their engagement data which published in their half-year engagement report. Using this data, I will create a simple analysis and try to gain some insight that hopefully will be useful as a reference for Netflix customer engagement or at least to the general audience that curious about this topic.
 
